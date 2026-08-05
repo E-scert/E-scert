@@ -26,7 +26,7 @@ Currently seeking **Database Manager/Developer internships** as part of my WIL m
 
 ## Featured Projects (3-Tier Applications)
 
-###  [Campus Lancer](https://github.com)**still in development**
+###  [Campus Lancer](https://github.com)
 A full 3-tier application designed to connect student freelancers with on-campus gig opportunities.  
 - **Backend:** Engineered clean, modular Object-Oriented business logic using *Node*.  
 - **Data Layer:** Designed and implemented a relational database using *PostgresSql* to handle secure authentication, user profiles, and job listings.  
