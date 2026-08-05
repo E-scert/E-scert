@@ -26,6 +26,13 @@ Currently seeking **Database Manager/Developer internships** as part of my WIL m
 
 ## Featured Projects (3-Tier Applications)
 
+### [WIL-Provider-Project](https://github.com)**in progress**
+A Work-Integrated Learning (WIL) platform prototype built to connect students with companies offering placement opportunities.  
+- **Core Features:** Student dashboard for document uploads (ID, WIL letter, academic record), application tracking, and readiness progress.  
+- **Backend:** PostgreSQL schema with Supabase integration, RLS policies, triggers, and secure storage.  
+- **Frontend:** React-based dashboard with document status, recent applications summary, and program listings.  
+- **Goal:** Streamline WIL placement processes, reduce admin workload, and improve graduation readiness for students.
+
 ###  [Campus Lancer](https://github.com)
 A full 3-tier application designed to connect student freelancers with on-campus gig opportunities.  
 - **Backend:** Engineered clean, modular Object-Oriented business logic using *Node*.  
